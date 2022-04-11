@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @TomYumVR
-- 👀 I'm interested in many things, currently focused primmarly on Virtual-Reality and 3D-Printing 
+- 👀 I'm interested in many things, currently focusing primmarly on Virtual-Reality and 3D-Printing 
 - 📫 Discord: Tom Yum#2283
  
 - “Jack of all trades, master of none, though often better than a master of one.”
-— Adam Savage
+ -Adam Savage
 
 
 <!---
